@@ -1,0 +1,7 @@
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\bin\Debug\Calculator.exe.config
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\bin\Debug\Calculator.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\bin\Debug\Calculator.pdb
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\obj\Debug\Calculator.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\1\Calculator\obj\Debug\Calculator.pdb
