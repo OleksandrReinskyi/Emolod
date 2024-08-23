@@ -9,22 +9,6 @@ using System.Threading.Tasks;
 
 
 namespace Calculator
-    /*
-     Pseudocode:
-    It will be a calculator that firstly takes 2 numbers, performs an operation and then waits for another user's input 
-    with the first number being the result of the previous operation
-    
-    Must implement a Calculator class with
-    - public string array with first and second numbers that are set to null
-    - public char operation
-    - public float function that will return an output based on operation
-    
-    Helper functions:
-    - askUser function that will ask a question and get the output
-    - Validate function that will validate the number's inputs 
-
-    While loop until the user hits Ctr+C 
-     */
 {
    class Calculator
    {
@@ -56,12 +40,12 @@ namespace Calculator
                 case "sqrt":
                     if (number1 < 0)
                     {
-                        throw new Exception("Cannot get the square root of a less than 0 value (number 1)!");
+                        throw new Exception("Cannot get the square root of a negative value (number 1)!");
                     }
                     return Math.Sqrt(number1);
                 case "pow":
                     if (number2 < 0) {
-                        throw new Exception("Cannot raise to the power that is less than 0!");
+                        throw new Exception("Cannot raise to the negative power!");
                     }
                     return Math.Pow(number1, number2);
                 default:
@@ -87,7 +71,7 @@ namespace Calculator
             Calculator calculator = new Calculator();
             string startingMessage = @"Welcome to the calculator! 
 You will be asked to insert operation and 2 numbers. 
-After each operation the result will be stored as the 1 number.So you can continue working with it.
+After each operation, the result will be stored as the 1 number. So you can continue working with it.
 The list of supported operations:
     1. * 
     2. +
@@ -126,7 +110,7 @@ P.s.: You can exit the calculator by pressing Ctr+C.
                     Console.WriteLine("Result: " + result);
                 }
                 catch (Exception e) {
-                    Console.WriteLine("Error occured: "+e.Message);
+                    Console.WriteLine("Error occurred: "+e.Message);
                 }
                 finally
                 {
