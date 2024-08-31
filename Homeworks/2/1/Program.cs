@@ -48,34 +48,33 @@ namespace _1
 
 
         //2. NUMBER GENERATOR ---------------------------------------------------------
-        public static float GenerateNum(int min, int max, Random random)
+        public static int GenerateNum(int min, int max, Random random)
         {
-            double range = (double)max-(double)min;
-            double sample = random.NextDouble();
-            float scaled = (float)((sample * range) + min);
-            return scaled;
+            return random.Next(min, max);
         }
 
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            float[] numbers = new float[100];
+            int[] numbers = new int[10];
 
             // Range
             int min = 100;
             int max = 900;
 
-            float secondMin = float.MaxValue;
-            float firstMin = float.MaxValue;
+            float secondMin = max ;
+            float firstMin = max;
 
             for (int i = 0; i < numbers.Length; i++) 
             {
-                float random = GenerateNum(min, max, rnd);
+                int random = GenerateNum(min, max, rnd);
                 numbers[i] = random;
+                Console.WriteLine(numbers[i]);
                 if(random < secondMin)
                 {
                     if(random < firstMin)
                     {
+                        secondMin = firstMin;
                         firstMin = random;
                     }
                     else
@@ -85,7 +84,7 @@ namespace _1
                 }
 
             }
-            Console.WriteLine("The second min value from the end is: "+secondMin.ToString().Replace(",","."));
+            Console.WriteLine("The second min value is: "+secondMin);
         }
     }
 }
