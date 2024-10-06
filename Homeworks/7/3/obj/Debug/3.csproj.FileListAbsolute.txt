@@ -1,0 +1,10 @@
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\bin\Debug\3.exe.config
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\bin\Debug\3.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\bin\Debug\3.pdb
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\_3.Properties.Resources.resources
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\3.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\3.pdb
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\7\3\obj\Debug\_3.PasswordGenerator.resources
