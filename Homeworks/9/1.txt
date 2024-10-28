@@ -1,0 +1,8 @@
+2) SELECT * FROM customer WHERE balance>50;
+3) SELECT * FROM customer WHERE email LIKE "%ee%";
+4) UPDATE customer SET first_name = "Oleksandr", last_name = "Reinskyi" WHERE customer_id = 1;
+5) SELECT first_name FROM customer WHERE balance>150 AND balance<220;
+6) SELECT COUNT(country_id) as countries_number FROM country;
+7) DELETE FROM country WHERE country_id = 80;
+8) INSERT INTO country(country) VALUES ("the Land of the Houyhnhnms"),("Laputa"),("Brobdingnag");
+9) SELECT country_id, country FROM country WHERE country LIKE "U%";
