@@ -1,0 +1,19 @@
+
+1- SELECT cits.Name as cityName, cntr.Name as countryName 
+FROM city as cits 
+LEFT JOIN country as cntr 
+ON cits.ID = cntr.Capital 
+ORDER BY cits.Population DESC LIMIT 10;
+
+2 -SELECT Name
+ FROM country as cnt 
+WHERE cnt.Code IN 
+(SELECT countryCode 
+FROM countrylanguage 
+GROUP BY (CountryCode) HAVING COUNT(Language)>1);
+
+3-SELECT SUM(Population) FROM city WHERE countryCode = "UKR";
+
+4- SELECT cnt.Name, SUM(ct.Population) FROM country as cnt CROSS JOIN city as ct ON cnt.Code = ct.CountryCode GROUP BY (ct.CountryCode) 
+
+5-SELECT cnt.Name as Country, cnt.Code, cpt.Name as Capital FROM country as cnt CROSS JOIN city as cpt ON cnt.capital = cpt.ID;
