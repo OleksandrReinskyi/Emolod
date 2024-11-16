@@ -1,0 +1,14 @@
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\Shop.exe.config
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\Shop.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\Shop.pdb
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\MySql.Data.dll
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\System.Memory.dll
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\System.Numerics.Vectors.dll
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\System.Buffers.dll
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\bin\Debug\MySql.Data.xml
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\obj\Debug\Shop.csproj.Up2Date
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\obj\Debug\Shop.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\11\2\Shop\obj\Debug\Shop.pdb
