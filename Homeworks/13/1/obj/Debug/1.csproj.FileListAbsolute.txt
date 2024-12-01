@@ -1,0 +1,7 @@
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\bin\Debug\1.exe.config
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\bin\Debug\1.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\bin\Debug\1.pdb
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\obj\Debug\1.exe
+D:\Рейнський Олександр Юрійович\Hobbies\Programming\Other\EMOLOD\Homeworks\13\1\obj\Debug\1.pdb
